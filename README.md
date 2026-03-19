@@ -5,4 +5,4 @@ required libraries so the code can work:
 3) math
 4) matplotlib
 
-nothing fancy, just a simple fucking program that does statistics
+nothing fancy, just a simple fucking program that does statistic calculations.
